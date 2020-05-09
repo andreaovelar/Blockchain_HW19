@@ -48,12 +48,9 @@ We open the crypto wallet we use to configure the testnet
 
 Please find below confirmation of the transaction
 
-![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture1.PNG "CLOSE")
-
 Please find below at the bottom of the image the transaction hash generated 0xf9500f525afb3a898543cd644ed8070ab6170859e68ea74cb1cff6fee33c2bb8  
 
 
 ## Conclusions 
-* We were able to use Puppeth, to generate your genesis block
-* We were able to use Geth, command-line tool, to create keys, initialize nodes, and connect the nodes together.
-* We use configure our network using The Clique Proof of Authority algorithm
+* We were able to use hd wallet derive and python to send eth and bitcoin testnet 
+* We use our network using The Clique Proof of Authority algorithm from previous assignment to send the ETH 
