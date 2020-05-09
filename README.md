@@ -1,7 +1,7 @@
 # Blockchain_HW
 
 ###  Multi-Blockchain Wallet in Python
-#### 1. Connecting hd-wallet-derive with python 
+####  Connecting hd-wallet-derive with python 
 After you've integrated this "universal" wallet, you can begin to manage billions of addresses across 300+ coins in this example we are going to use Ethereum and Bitcoin Testnet
 
 ## Dependencies  
@@ -11,9 +11,9 @@ After you've integrated this "universal" wallet, you can begin to manage billion
 * web3.py Python Ethereum library.
 
 ## Steps  
-* Project setup files and and programs shold look like the repo with the wallet.py, derive, constants, hd_wallet_derive
+* Project setup files and and programs shold look like the repo with the wallet.py, derive, constants, hd_wallet_derive, main code with output is saved in walletnotebook 
 * Generate a Mnemonic 
-* send transactions using the following commands 
+* Send transactions using the following commands 
 * Please note that for ethereum two nodes for your testnet should be running on the git bash in order for the tx to send 
 
 Please find below screenshot in which we check in git bash that hd wallet derive is working properly. output should look like this after cloning repo and running below command 
