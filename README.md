@@ -1,6 +1,4 @@
-# Blockchain_HW19
-
-# Blockchain_HW
+# Blockchain_HW19 using Python
 
 ###  Custom testnet blockchain specifications 
 #### 1. Puppeth, to generate your genesis block 
