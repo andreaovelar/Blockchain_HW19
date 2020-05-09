@@ -17,17 +17,17 @@ After you've integrated this "universal" wallet, you can begin to manage billion
 * Please note that for ethereum two nodes for your testnet should be running on the git bash in order for the tx to send 
 
 
+Please find below screenshot in which we check in git bash that hd wallet derive is working properly. output should look like this after cloning repo and running below command 
+
+![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture3.PNG "CLOSE")
+
 Please find below screenshot for of Bitcoin Testnet transactios recorded for our address 2 received and 6 sent 
 
 ![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture1.PNG "CLOSE")
 
-Please find below screenshot for of Bitcoin Testnet transaction Using the block explorer, please note the hash of the transaction and the different addresses used.
+Please find below screenshot for of Bitcoin Testnet transaction using the block explorer, please note the hash of the transaction and the different addresses used.
 
 ![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture.PNG "CLOSE")
-
-Please find below screenshot in which we export the genesis configuration. We can see we created a banknet.json file which contain specifications
-
-![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture3.PNG "CLOSE")
 
 Using the banknet configuration we then proceed to create two nodes with the respective passwords, the screenshot show the public address of the key and the path for the secret key file 
 
