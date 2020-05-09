@@ -1,7 +1,21 @@
-# Blockchain_HW19 using Python
+# Blockchain_HW
 
-###  Custom testnet blockchain specifications 
-#### 1. Puppeth, to generate your genesis block 
+###  Multi-Blockchain Wallet in Python
+#### 1. Connecting hd-wallet-derive with python 
+After you've integrated this "universal" wallet, you can begin to manage billions of addresses across 300+ coins in this example we are going to use Ethereum and Bitcoin Testnet
+
+## Dependencies  
+* PHP must be installed on your operating system (any version, 5 or 7). Don't worry, you will not need to know any PHP.
+* You will need to clone the hd-wallet-derive tool.
+* bit Python Bitcoin library.
+* web3.py Python Ethereum library.
+
+## Steps  
+* Project setup files and and programs shold look like the repo with the wallet.py, derive, constants, hd_wallet_derive
+* Generate a Mnemonic 
+* send transactions using the following commands 
+* Please note that for ethereum two nodes for your testnet should be running on the git bash in order for the tx to send 
+
 
 Please note the name of the testnet banknet using proof of authority in the below screenshot
 
