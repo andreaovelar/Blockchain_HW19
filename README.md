@@ -36,7 +36,7 @@ We open the crypto wallet we use to configure the testnet
 
 Please find below confirmation of the transaction
 
-![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture10.PNG "CLOSE")
+![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture1.PNG "CLOSE")
 
 Please find below at the bottom of the image the transaction hash generated 0xf9500f525afb3a898543cd644ed8070ab6170859e68ea74cb1cff6fee33c2bb8  
 
