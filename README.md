@@ -17,11 +17,11 @@ After you've integrated this "universal" wallet, you can begin to manage billion
 * Please note that for ethereum two nodes for your testnet should be running on the git bash in order for the tx to send 
 
 
-Please note the name of the testnet banknet using proof of authority in the below screenshot
+Please find below screenshot for of Bitcoin Testnet transactios recorded for our address 2 received and 6 sent 
 
 ![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture1.PNG "CLOSE")
 
-Please find below screenshot using address from my crypto wallet and selecting chain ID 333
+Please find below screenshot for of Bitcoin Testnet transaction Using the block explorer, please note the hash of the transaction and the different addresses used.
 
 ![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture.PNG "CLOSE")
 
