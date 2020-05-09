@@ -40,8 +40,8 @@ Please find below same hash transaction when we open myCrypto app as well
 ![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture8.PNG "CLOSE")
 
 ## Useful commands to send ETH and Bitcoin testnet 
-* We were able to use hd wallet derive and python to send ethereum and bitcoin testnet 
-* We use our network using The Clique Proof of Authority algorithm from previous assignment to send the ETH 
+* send_tx(BTCTEST,btc_account,'mrwjTLQMeqrbU4eg6WGyL7xCf25ewAHsn2',0.0001)
+* send_tx(ETH,eth_account,'0x30B7C972578985dD504Cd6E1846d55faF25CF37E',1)
 
 ## Conclusions 
 * We were able to use hd wallet derive and python to send ETH and bitcoin testnet 
