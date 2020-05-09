@@ -19,11 +19,11 @@ After you've integrated this "universal" wallet, you can begin to manage billion
 
 Please note the name of the testnet banknet using proof of authority in the below screenshot
 
-![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture.PNG "CLOSE")
+![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture1.PNG "CLOSE")
 
 Please find below screenshot using address from my crypto wallet and selecting chain ID 333
 
-![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture1.PNG "CLOSE")
+![table](https://github.com/andreaovelar/Blockchain_HW19/blob/master/images/Capture.PNG "CLOSE")
 
 Please find below screenshot in which we export the genesis configuration. We can see we created a banknet.json file which contain specifications
 
